@@ -4,7 +4,7 @@ Customer acquisition can be quite a challenging task in today’s world, mostly 
 The purpose of this project is to analyse existing consumer behaviour and understand what appeals to them and on the basis of this information gathered, predict the cost of acquiring new customers.
 
 ## Demo Video
-https://drive.google.com/drive/folders/17kKvgFMHHo-u6LgZrz24VUJRBNh25IuI?usp=drive_link
+https://drive.google.com/drive/u/2/folders/1OMpsV22W63CglSPA9P_Phtjeyc1y9h61
 
 ## Note
 
